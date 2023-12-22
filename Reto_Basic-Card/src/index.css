@@ -30,7 +30,12 @@ body {
     height: 200px;
     background-color: aqua;
     border-radius: 20px 20px 0px 0px;
+    background-image: url(./components/teclado.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
+
 
 .logo {
     width: 128px;
