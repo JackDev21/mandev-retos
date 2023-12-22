@@ -44,7 +44,12 @@ body {
     border-radius: 50%;
     margin: 0 auto;
     position: relative;
-    top: -100px;
+    top: -110px;
+    background-image: url(./components/avatar.png);
+    background-size: 140%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #d37ec6;
 }
 
 
