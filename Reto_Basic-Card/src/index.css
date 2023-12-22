@@ -20,7 +20,7 @@ body {
 
 .card {
     width: 450px;
-    height: 600px;
+    height: 671px;
     background-color: rgb(252, 239, 222);
     border-radius: 20px;
 }
@@ -69,10 +69,18 @@ body {
     text-align: left;
 }
 
+.content h5 svg {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    fill: #997238;
+    vertical-align: middle;
+}
+
 .footer {
+    position: relative;
     width: 100%;
     height: 100px;
-    background-color: rgb(174, 0, 255);
-    position: relative;
+    background-color: rgba(174, 0, 255, 0.322);
     border-radius: 0px 0px 20px 20px;
 }
