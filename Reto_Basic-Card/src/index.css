@@ -21,7 +21,7 @@ body {
 .card {
     width: 450px;
     height: 600px;
-    background-color: bisque;
+    background-color: rgb(252, 239, 222);
     border-radius: 20px;
 }
 
@@ -34,8 +34,8 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    border-bottom: 3px solid #ffc873;
 }
-
 
 .logo {
     width: 128px;
@@ -50,14 +50,29 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-color: #d37ec6;
+    border: 3px solid #d37ec6;
 }
 
+
+.content {
+    position: relative;
+    text-align: center;
+    top: -100px;
+    font-family: Poppins, Montserrat;
+}
+
+.content p {
+    font-size: 18px;
+    font-family: Poppins, Montserrat;
+    padding: 0 20px;
+    margin: 15px;
+    text-align: left;
+}
 
 .footer {
     width: 100%;
     height: 100px;
     background-color: rgb(174, 0, 255);
     position: relative;
-    bottom: -180px;
     border-radius: 0px 0px 20px 20px;
 }
