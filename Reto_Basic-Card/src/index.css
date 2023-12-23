@@ -62,7 +62,7 @@ body {
 }
 
 .content p {
-    font-size: 18px;
+    font-size: 16px;
     font-family: Poppins, Montserrat;
     padding: 0 20px;
     margin: 15px;
@@ -173,4 +173,27 @@ body {
     height: 22px;
     fill: #997238;
     vertical-align: middle;
+}
+
+.css-button-fully-rounded--grey {
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 20px;
+    border: 2px solid #9099ce;
+    background: #e2b766;
+    font-family: Montserrat, Poppins;
+    font-size: 15px;
+}
+
+.css-button-fully-rounded--grey:hover {
+    background: #fff;
+    color: #b87717
 }
