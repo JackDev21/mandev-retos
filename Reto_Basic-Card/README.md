@@ -2,6 +2,8 @@
 
 🌍 **URL del reto**: *https://lenguajejs.com/retos/nivel-facil/basic-card/*
 
+![Alt text](card.png)
+
 ## Datos
 
 - 🦄 **Desarrollador/a:** JackDev
